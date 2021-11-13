@@ -20,11 +20,9 @@
 
 `git rm --cached file.js` ***Deletes files both from the Git repository as well as the filesystem. Using the --cached***
 
-`git log --oneline` ***Check head of commit***
+`git log --oneline` 
 
-`git log --prretty=oneline` ***check head of commit***
-
-`git branch`
+`git log --prretty=oneline` 
 
 `git branch feat/user-update` ***Create branch***
 
@@ -34,9 +32,9 @@
 
 `git checkout -` ***Switch to last checkedout branch***
 
-`git merge feat/user-update` ***merge by checking out master branch***
+`git merge feat/user-update` ***Merge by checking out master branch***
 
-`git reset HEAD` ***moves all staged changed to unstaged***
+`git reset HEAD` ***Moves all staged changed to unstaged***
 
 `git reset --hard HEAD` ***Trashes changes to HEAD***
 
