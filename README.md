@@ -16,7 +16,7 @@
 
 `git status` 
 
-`git add .`  ***stage untracked files ( . | -A  | --all)***
+`git add .`  ***Stage untracked files ( . | -A  | --all)***
 
 `git rm --cached file.js` ***Deletes files both from the Git repository as well as the filesystem. Using the --cached***
 
